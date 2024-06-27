@@ -1,33 +1,24 @@
+<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwOvOwv&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vwOvOwv&theme=tokyonight)](https://git.io/streak-stats)
-
+<img src="https://capsule-render.vercel.app/api?type=Venom&theme=tokyonight&height=300&&section=header&text=Nice%20to%20meet%20you!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I%20am%20Peiyu%20Liu!&descAlign=50&descSize=30&descAlignY=60">
 </p>
-
+ 
+ 
 <p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=vwOvOwv&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=vwOvOwv&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<br/>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vwOvOwv&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=vwOvOwv&theme=tokyo-night&hide_border=true" />
+<br/>
 
-</p>
-  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vwovowv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwOvOwv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vwOvOwv&theme=tokyonight&hide_border=true&layout=compact&langs_count=22" />
 
-</p>
-
-
-<!--
-**vwOvOwv/vwOvOwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwOvOwv&theme=tokyonight&hide_border=true" />
+<br/>
