@@ -1,7 +1,12 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Venom&theme=tokyonight&height=300&&section=header&text=Nice%20to%20meet%20you!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I%20am%20Peiyu%20Liu!&descAlign=50&descSize=30&descAlignY=60">
+<img src="https://capsule-render.vercel.app/api?type=Venom&theme=tokyonight&height=200&&section=header&text=Nice%20to%20meet%20you!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I%20am%20Peiyu%20Liu!&descAlign=50&descSize=30&descAlignY=60">
 </p>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=vwOvOwv" alt="Profile views" />
+  </div>
+<br/>
  
  
 <p align="center">
