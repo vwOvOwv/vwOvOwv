@@ -53,7 +53,7 @@
 
 </br>
 
-## Current Interests & Hobbies
+## Current Interests
 
 ### Roman History
 
