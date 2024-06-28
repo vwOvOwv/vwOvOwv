@@ -59,15 +59,4 @@
 
 <img width="200" align="center" src="https://th.bing.com/th/id/R.b8c6900016cbc2b7aeee1335a86bf937?rik=iyN%2fpQDN1EsSJg&pid=ImgRaw&r=0" />
 
-### Chinese Chess
-
-<img width="300" align="center" src="https://th.bing.com/th/id/OIP.0yToXGKlXXDZitpJDE3lQQHaGR?rs=1&pid=ImgDetMain" />
-
-### Billiards
-
-<img width="200" align="center" src="https://th.bing.com/th/id/R.0cc2ffd1d480714b89070468d51b9250?rik=Ba0qm5Hh%2fq45kA&pid=ImgRaw&r=0" />
-
-
-
-
 </div>
