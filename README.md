@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,html,latex,ai,ps" />
   </a>
 </p>
 
