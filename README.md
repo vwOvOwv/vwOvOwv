@@ -49,11 +49,3 @@
 </p>
 
 </br>
-
-## Current Interests
-
-### Roman History
-
-<img width="200" align="center" src="https://th.bing.com/th/id/R.b8c6900016cbc2b7aeee1335a86bf937?rik=iyN%2fpQDN1EsSJg&pid=ImgRaw&r=0" />
-
-</div>
