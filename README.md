@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Nice%20to%20meet%20you!%20🥳&fontSize=70&fontAlign=50&fontAlignY=50">
 </p>
 
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=vwOvOwv&color=62baae&style=for-the-badge" alt="PROFILE VIEWS" />
-  </div>
 
 </br>
  
@@ -22,30 +19,3 @@
 </br>
 
 <div align="center">
-
-## My Stack
-### Current
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,markdown" />
-  </a>
-</p>
-
-### Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,latex,ai,ps" />
-  </a>
-</p>
-
-
-### Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,git,docker,pytorch" />
-  </a>
-</p>
-
-</br>
