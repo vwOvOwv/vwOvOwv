@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Hi%20there👋%20Nice%20to%20meet%20you!%20🥳&fontSize=30&fontAlign=50&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Hi%20there👋%20Nice%20to%20meet%20you!%20🥳&fontSize=40&fontAlign=50&fontAlignY=50">
 </p>
  
 <p align="center">
